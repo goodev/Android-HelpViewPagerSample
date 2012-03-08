@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">This is the main UI, when the app first launched, will shou the HELP Page!\n Click the following button and restart this app to see the Help Page!</string>
+    <string name="app_name">HelpViewPagerSample</string>
+    <string name="button">Click me to reset the launch data</string>
+
+</resources>
